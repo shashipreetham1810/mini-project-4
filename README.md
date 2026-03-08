@@ -117,5 +117,5 @@ After completing this project, you will understand:
 
 Author
 
-Chichu
+preetham
 Aspiring Smart Contract & Web3 Developer
